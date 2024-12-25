@@ -3,6 +3,7 @@ import Gallery from "./Gallery";
 import Contact from "./Contact";
 import Routes from "./Routes";
 import { Link as ScrollLink } from "react-scroll";
+import Plans from "./Plans";
 
 export default function Home() {
   return (
@@ -110,6 +111,8 @@ export default function Home() {
 
       {/* Gallery Section */}
       <Gallery />
+       {/* Plans Section */}
+       <Plans />
       {/* Gallery Section */}
       <Contact />
     </div>

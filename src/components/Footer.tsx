@@ -15,7 +15,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">Contact Info</h3>
             <div className="space-y-2">
-              <p className="flex items-center"><Phone className="h-5 w-5 mr-2" /> +212 666-888-999</p>
+              <p className="flex items-center"><Phone className="h-5 w-5 mr-2" /> +212 600112233</p>
               <p className="flex items-center"><Mail className="h-5 w-5 mr-2" /> info@toubkalclimbers.com</p>
               <p className="flex items-center"><MapPin className="h-5 w-5 mr-2" /> Imlil, Atlas Mountains, Morocco</p>
             </div>

@@ -4,7 +4,7 @@ import { PlanCard } from '../components/plans/PlanCard';
 
 export default function Plans() {
   return (
-    <div className="pt-16">
+    <div className="pt-16" id="plans">
       <PageHeader 
         title="Climbing Plans" 
         description="Choose your perfect mountain adventure package" 

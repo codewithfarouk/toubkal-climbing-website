@@ -110,7 +110,7 @@ export default function Contact() {
               <h2 className="text-2xl font-bold mb-6">Contact Information</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
                 <a
-                  href="https://wa.me/212666888999"
+                  href="https://wa.me/212600112233"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center p-4 bg-green-500 text-white rounded-lg hover:bg-green-600 transition-colors"
@@ -131,7 +131,7 @@ export default function Contact() {
                   <Phone className="h-6 w-6 text-[#422006] mr-4 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold">Phone</h3>
-                    <p className="text-gray-600">+212 666-888-999</p>
+                    <p className="text-gray-600">+212 600112233</p>
                   </div>
                 </div>
                 <div className="flex items-start p-4 bg-gray-50 rounded-lg">
