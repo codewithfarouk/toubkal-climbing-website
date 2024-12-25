@@ -39,7 +39,7 @@ export function PlanCard({ plan }: PlanCardProps) {
       
       <Button
         variant={plan.recommended ? 'primary' : 'secondary'}
-        className="w-full bg-amber-900 text-white hover:bg-green-950 transition-colors"
+        className="w-full bg-green-700 text-white hover:bg-green-950 transition-colors"
       >
         Select Plan
       </Button>
